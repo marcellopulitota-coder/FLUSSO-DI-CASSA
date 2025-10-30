@@ -1,0 +1,5 @@
+{
+  "name": "Flusso di Cassa",
+  "description": "Un'applicazione web per la gestione del flusso di cassa personale, che consente di registrare entrate e uscite, calcolare il saldo e esportare i dati in formato CSV.",
+  "requestFramePermissions": []
+}
